@@ -11,6 +11,5 @@
 ## 🚀 Featured Projects
 
 ## 📫 Contact
-- Portfolio: https://your-portfolio.example  
-- Email: your.email@example.com  
-- LinkedIn: https://www.linkedin.com/in/your-linkedin  
+- Email: vishalmeena2169@gmail.com 
+- LinkedIn: https://www.linkedin.com/in/vishalmeena24 
