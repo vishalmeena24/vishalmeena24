@@ -7,3 +7,10 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 *I’m currently focusing on:* **Frontend (React, Tailwind)** and **DevOps basics**.
+
+## 🚀 Featured Projects
+
+## 📫 Contact
+- Portfolio: https://your-portfolio.example  
+- Email: your.email@example.com  
+- LinkedIn: https://www.linkedin.com/in/your-linkedin  
