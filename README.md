@@ -15,6 +15,6 @@
 - LinkedIn: https://www.linkedin.com/in/vishalmeena24 
 
 
-## 📊 GitHub stats (replace `your-github-username`)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+## 📊 GitHub stats (vishalmeena24)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalmeena24&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalmeena24&layout=compact&theme=radical)
