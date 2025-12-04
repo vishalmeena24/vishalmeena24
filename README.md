@@ -9,7 +9,7 @@
 *I’m currently focusing on:* **Full Stack Development(Node, React, Tailwind)** and **DevOps and Cloud**.
 
 ## 🚀 Featured Projects
-1572B6
+
 ## 📫 Contact
 - Email: vishalmeena2169@gmail.com 
 - LinkedIn: https://www.linkedin.com/in/vishalmeena24 
